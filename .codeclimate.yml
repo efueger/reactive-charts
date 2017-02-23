@@ -7,7 +7,7 @@ engines:
       - javascript
   eslint:
     enabled: true
-    channel: "eslint-3"
+    channel: "eslint-2"
     config: .eslintrc.codeclimate
   fixme:
     enabled: true
